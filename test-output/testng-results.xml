@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-18T20:41:10 IST" name="Suite" finished-at="2024-06-18T20:41:29 IST" duration-ms="19007">
+    <groups>
+    </groups>
+    <test started-at="2024-06-18T20:41:10 IST" name="Test" finished-at="2024-06-18T20:41:29 IST" duration-ms="19007">
+      <class name="com.HRM.TestCases.LoginPageTestcase">
+        <test-method is-config="true" signature="setUpBrowser()[pri:0, instance:com.HRM.TestCases.LoginPageTestcase@2421cc4]" started-at="2024-06-18T20:41:10 IST" name="setUpBrowser" finished-at="2024-06-18T20:41:22 IST" duration-ms="11300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method signature="validateLogin()[pri:1, instance:com.HRM.TestCases.LoginPageTestcase@2421cc4]" started-at="2024-06-18T20:41:22 IST" name="validateLogin" finished-at="2024-06-18T20:41:24 IST" duration-ms="2322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogin -->
+        <test-method signature="AdminTest()[pri:2, instance:com.HRM.TestCases.LoginPageTestcase@2421cc4]" started-at="2024-06-18T20:41:24 IST" name="AdminTest" finished-at="2024-06-18T20:41:26 IST" duration-ms="1638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdminTest -->
+        <test-method signature="AdminTest1()[pri:3, instance:com.HRM.TestCases.LoginPageTestcase@2421cc4]" started-at="2024-06-18T20:41:26 IST" name="AdminTest1" finished-at="2024-06-18T20:41:27 IST" duration-ms="1304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdminTest1 -->
+        <test-method signature="AdminTest2()[pri:4, instance:com.HRM.TestCases.LoginPageTestcase@2421cc4]" started-at="2024-06-18T20:41:27 IST" name="AdminTest2" finished-at="2024-06-18T20:41:28 IST" duration-ms="1433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdminTest2 -->
+        <test-method signature="AdminTest3()[pri:5, instance:com.HRM.TestCases.LoginPageTestcase@2421cc4]" started-at="2024-06-18T20:41:28 IST" name="AdminTest3" finished-at="2024-06-18T20:41:29 IST" duration-ms="885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdminTest3 -->
+      </class> <!-- com.HRM.TestCases.LoginPageTestcase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
